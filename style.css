@@ -54,6 +54,7 @@ p {
 }
 
 a {
+  border-radius: 4px;
   padding: 20px;
   background-color: yellow;
   color: black;
